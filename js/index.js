@@ -1,3 +1,5 @@
+// Weronika Marczak & Hugo Dib
+
 let hacker1 = 'Weronika'
 console.log(`driver's name is ${hacker1}`)
 
